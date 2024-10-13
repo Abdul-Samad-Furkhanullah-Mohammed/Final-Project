@@ -20,7 +20,7 @@ Before starting, ensure that you have the following installed:
 
 - `backend/`: Contains the Node.js/Express API for the server.
 - `frontend/`: Contains the React client for the frontend.
-- `database/`: Configuration for MongoDB.
+- `database`: Configuration for MongoDB.
   
 ---
 
